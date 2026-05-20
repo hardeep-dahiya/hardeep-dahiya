@@ -28,7 +28,7 @@ Prototype hardware bring-up and testing
 - Developed an Arduino-based rover with Bluetooth control and obstacle avoidance. 
 
 ### Fingerprint Based Smart Door Lock System
--Built a smart access control system using Arduino Uno and fingerprint authentication. 
+- Built a smart access control system using Arduino Uno and fingerprint authentication. 
 
 
 ## 🎯 Technical Interests
