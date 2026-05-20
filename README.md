@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi, I'm Hardeep Dahiya 👋
+Final-year Electronics & Communication Engineering student passionate about Embedded Hardware, PCB Debugging, and Embedded Systems Development.
 
-<!--
-**hardeep-dahiya/hardeep-dahiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technical Skills
 
-Here are some ideas to get you started:
+Programming: Embedded C, C, C++, Python
+Protocols: UART, SPI, I2C, GPIO, PWM
+Tools: KiCad, Oscilloscope, Multimeter
+Hardware: PCB Bring-up, Hardware Debugging, Prototype Testing
+Validation: Hardware Validation & Functional Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💼 Current Experience
+Embedded Hardware Engineering Intern
+Indinatus India Pvt. Ltd.
+
+Working on:
+CCTV camera hardware debugging
+Vatics KLM730 SoC-based systems
+Camera sensor, PoE & IR board validation
+MIPI interface integration
+Prototype hardware bring-up and testing
+
+
+🚀 Projects
+
+Arduino-based autonomous rover with obstacle detection and Bluetooth control.
+
+Fingerprint Based Smart Door Lock System
+
+
+
+
+🎯 Technical Interests
+Embedded Systems • PCB Design • Hardware Validation • Robotics • IoT
+
+📫 Connect With Me
+
+LinkedIn: linkedin.com/in/hardeep-dahiya-6a217b326
+GitHub: github.com/hardeep-dahiya
+
