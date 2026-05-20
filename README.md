@@ -1,7 +1,7 @@
 Hi, I'm Hardeep Dahiya 👋
 Final-year Electronics & Communication Engineering student passionate about Embedded Hardware, PCB Debugging, and Embedded Systems Development.
 
-🔧 Technical Skills
+##  🔧 Technical Skills
 
 Programming: Embedded C, C, C++, Python
 Protocols: UART, SPI, I2C, GPIO, PWM
